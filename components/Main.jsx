@@ -36,24 +36,9 @@ class Main extends React.Component {
 				<article id="contact" className={`${this.props.article === 'contact' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{ display: 'none' }}>
 					<h2 className="major">Links</h2>
 					<ul className="icons">
-					<li><a href="/twitter">
+					<li><a href="/twitterr">
 							<FontAwesomeIcon icon={faTwitter} />
-						</a> Twitter </li>
-						<li><a href="/discord">
-							<FontAwesomeIcon icon={faDiscord} />
-						</a> Discord </li>
-						<li><a href="/spotify">
-							<FontAwesomeIcon icon={faSpotify} />
-						</a> Spotify </li>
-						<li><a href="/instagram">
-							<FontAwesomeIcon icon={faInstagram} />
-						</a> Instagram </li>
-						<li><a href="/github">
-							<FontAwesomeIcon icon={faGithub} />
-						</a> Github </li>
-						<li><a href="/soundcloud">
-							<FontAwesomeIcon icon={faSoundcloud} />
-						</a> SoundCloud </li>
+						</a> Coming Soon... </li>
 					</ul>
 					{close}
 				</article>
