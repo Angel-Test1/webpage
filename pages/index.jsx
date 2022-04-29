@@ -74,7 +74,7 @@ class IndexPage extends React.Component {
 			<div className={`body ${this.state.loading} ${this.state.isArticleVisible ? "is-article-visible" : ""}`}>
 				<div>
 					<Head>
-						<title>Fankot v2 - Homepage</title>
+						<title>Fankot v2 - Homepagee</title>
 						<link rel="shortcut icon" href="/static/images/pfp-circle.png" type="image/x-icon" />
 						<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet" />
 					</Head>
