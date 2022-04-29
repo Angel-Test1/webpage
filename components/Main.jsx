@@ -36,8 +36,8 @@ class Main extends React.Component {
 				<article id="contact" className={`${this.props.article === 'contact' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{ display: 'none' }}>
 					<h2 className="major">Links</h2>
 					<ul className="icons">
-					<li><a href="/twitterr">
-							<FontAwesomeIcon icon={faTwitter} />
+					<li><a href="/coming-soon">
+							<FontAwesomeIcon icon={faDiscord} />
 						</a> Coming Soon... </li>
 					</ul>
 					{close}
