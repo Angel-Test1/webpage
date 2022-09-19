@@ -18,7 +18,7 @@ class Main extends React.Component {
 					<h2 className="major">Projects</h2>
 					<span className="image main"><img loading='lazy' src="/static/images/code.jpg" alt="" /></span>
 					<ul className='actions vertical'>
-						<li>Stay Tuned...</li>
+						<li>Stay Tuned, Releasing Soon...</li>
 					</ul>
 					{close}
 				</article>
@@ -28,7 +28,7 @@ class Main extends React.Component {
 					<span className="main"><img loading='lazy' src="/static/images/cider.gif" style={{ margin: 'auto', marginBottom: 'calc(30px - 1em)', marginLeft: 'calc(50% - 50px)', borderRadius: '10px', boxShadow: '0 0 10px rgba(0, 0, 0, 0.5)' }} alt="" /></span>
 					<p style={{ textAlign: 'center' }}>
 						Hello, I'm Fankot, <br />
-						I'm a Developer, Hacker and a Student, currently in 1st Year Diploma!
+						I'm a Developer, Hacker and a Student, currently in 2nd Year Diploma in Computer Science [CCET, Sector 26, Chandigarh, India]
 					</p>
 					{close}
 				</article>
